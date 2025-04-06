@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Información y registro
 permalink: /about/
 ---
 
