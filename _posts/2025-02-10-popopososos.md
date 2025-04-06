@@ -2,6 +2,6 @@
 layout: post
 title:  "NaTecos"
 date:   2025-02-10
-categories: jijiji
+categories: jekyll 
 ---
 NaTec Hongos práctica proximamente...
