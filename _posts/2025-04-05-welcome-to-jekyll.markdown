@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 title:  "NaTecos"
 date:   2025-04-05 14:17:46 -0600
 categories: jekyll update
